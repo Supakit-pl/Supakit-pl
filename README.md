@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hello! I'm Oat
 
-<!--
-**Supakit-pl/Supakit-pl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a 3rd-year undergraduate student majoring in Information Technology  
+at Kasetsart University, Sriracha Campus 🇹🇭
 
-Here are some ideas to get you started:
+I'm passionate about web development, especially in Front-end development.  
+I'm constantly improving my skills and eager to learn new technologies to become a professional developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Areas of Interest**: Front-End Development, UI/UX, Web Performance  
+📚 **Currently Learning**: HTML, CSS, JavaScript, ReactJS 
+🚀 **Goal**: To build real-world projects and collaborate in professional development teams
+
+---
+
+📫 **Get in Touch**  
+- Email: suppakit.odd@gmail.com
+- Portfolio :   
+- GitHub : [https://github.com/Supakit-pl](https://github.com/Supakit-pl)
+
+Thanks for visiting my GitHub!
