@@ -16,7 +16,7 @@ I'm constantly improving my skills and eager to learn new technologies to become
 
 📫 **Get in Touch**  
 - Email: suppakit.odd@gmail.com
-- Portfolio :   
+- Portfolio : https://supakit-pl.github.io/portfolio/  
 - GitHub : [https://github.com/Supakit-pl](https://github.com/Supakit-pl)
 
 Thanks for visiting my GitHub!
