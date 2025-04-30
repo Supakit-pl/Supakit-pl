@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Oat
 
 I'm currently a 3rd-year undergraduate student majoring in Information Technology  
-at Kasetsart University, Sriracha Campus 🇹🇭
+at Kasetsart University, Sriracha Campus TH
 
 I'm passionate about web development, especially in Front-end development.  
 I'm constantly improving my skills and eager to learn new technologies to become a professional developer.
