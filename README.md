@@ -6,7 +6,7 @@ at Kasetsart University, Sriracha Campus TH
 I'm passionate about web development, especially in Front-end development.  
 I'm constantly improving my skills and eager to learn new technologies to become a professional developer.
 
-📌 **Areas of Interest**: Front-End Development, UI/UX, Web Performance 
+📌 **Areas of Interest**: Development, UI/UX, Web Performance 
 
 📚 **Currently Learning**: HTML, CSS, JavaScript, ReactJS 
 
